@@ -5,7 +5,7 @@ metadata:
   namespace: canary
 spec:
   selector:
-    app: web-canary
+    app: web
   type: ClusterIP
   clusterIP: None
   ports:
